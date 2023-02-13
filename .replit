@@ -1,0 +1,4 @@
+run = "while true; do npm i && node index.js --server ;sleep 2; done"
+
+[nix]
+channel = "stable-21_11"
